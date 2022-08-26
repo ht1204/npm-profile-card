@@ -1,6 +1,6 @@
 {
   "name": "ht1204",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A Personal NPM Card ",
   "main": "./bin/card.js",
   "bin": {
