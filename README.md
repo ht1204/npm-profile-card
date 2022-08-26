@@ -1,5 +1,7 @@
 # My npm card
 
+Practical NPM Custom Package Workshop following this [tutorial](https://github.com/makeitrealcamp/taller-pubicar-paquete-npm)
+
 Run
 Via npx
 
@@ -110,3 +112,4 @@ console.log(chalk.green(boxen(output, options)))
 ```bash
     $ npx ht1204
 ```
+
