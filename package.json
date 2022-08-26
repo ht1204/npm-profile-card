@@ -1,10 +1,10 @@
 {
-  "name": "npm-profile-card",
+  "name": "ht1204",
   "version": "1.0.1",
   "description": "A Personal NPM Card ",
   "main": "./bin/card.js",
   "bin": {
-    "makeitrealcamp": "./bin/card.js"
+    "ht1204": "./bin/card.js"
   },
   "type": "module",
   "scripts": {
