@@ -1,0 +1,48 @@
+{
+  "name": "npm-profile-card",
+  "version": "1.0.0",
+  "description": "A Personal NPM Card ",
+  "main": "./bin/card.js",
+  "bin": {
+    "makeitrealcamp": "./bin/card.js"
+  },
+  "type": "module",
+  "scripts": {
+    "lint": "eslint --ext .js, bin/card.js",
+    "lint:fix": "eslint --ext .js, bin/card.js --fix",
+    "release": "np"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ht1204/npm-profile-card.git"
+  },
+  "keywords": [
+    "npm",
+    "npm",
+    "card",
+    "npx",
+    "npx",
+    "card",
+    "business",
+    "card"
+  ],
+  "author": "Hector Triana <hectortriana1204@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ht1204/npm-profile-card/issues"
+  },
+  "homepage": "https://github.com/ht1204/npm-profile-card#readme",
+  "dependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.5",
+    "eslint-plugin-promise": "^6.0.1",
+    "jest": "^29.0.0",
+    "np": "^7.6.2"
+  }
+}
