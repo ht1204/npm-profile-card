@@ -8,6 +8,7 @@
   },
   "type": "module",
   "scripts": {
+    "test": "echo 'Pending...' ",
     "lint": "eslint --ext .js, bin/card.js",
     "lint:fix": "eslint --ext .js, bin/card.js --fix",
     "release": "np"
